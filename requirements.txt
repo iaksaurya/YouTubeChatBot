@@ -1,0 +1,19 @@
+#pip install -r requirements.txt     ---command to run this file
+# YouTubeChatBot\Scripts\activate    ---- command to activate environment
+#  python3 -m streamlit run app.py --server.address=0.0.0.0 --server.port=8501
+#   above command to run deployed app
+youtube-transcript-api
+langchain-community
+langchain-openai
+langchain-text-splitters
+langchain-core
+faiss-cpu
+tiktoken
+python-dotenv
+requests==2.32.4
+langchain-google-genai
+streamlit
+langchain-experimental
+sentence-transformers
+langchain-huggingface
+semantic-text-splitter

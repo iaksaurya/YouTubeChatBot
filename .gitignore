@@ -1,0 +1,23 @@
+# Ignore virtual environment
+YouTubeChatBot/Lib/
+YouTubeChatBot/Scripts/
+YouTubeChatBot/include/
+YouTubeChatBot/pyvenv.cfg
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE-specific
+.vscode/
+
+# Logs and temp files
+*.log
+*.tmp
