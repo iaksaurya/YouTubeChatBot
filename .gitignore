@@ -1,8 +1,10 @@
-# Ignore virtual environment
+# Ignore virtual environment folders
 YouTubeChatBot/Lib/
 YouTubeChatBot/Scripts/
 YouTubeChatBot/include/
 YouTubeChatBot/pyvenv.cfg
+YouTubeChatBot/share/
+YouTubeChatBot/etc/
 
 # Python cache
 __pycache__/
